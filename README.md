@@ -15,8 +15,8 @@ echo $SHELL
 
 ```mermaid
 flowchart LR
-    A("`Digital Literacy
-    (Optional)`") --> B("macOS")
+    A("Digital Literacy
+    (Optional)") --> B("macOS")
     A --> C("Windows 10")
     A --> D("Windows 11")
     A --> E("Ubuntu")
@@ -24,6 +24,6 @@ flowchart LR
     C --> F
     D --> F
     E --> F
-    F --> G("`GitHub Personal
-    Access Token`")
+    F --> G("GitHub Personal
+    Access Token")
 ```
